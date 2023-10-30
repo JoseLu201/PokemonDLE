@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokémon Result</title>
+</head>
+<body>
+    <h1>Pokémon Result</h1>
+    {% if search_result %}
+        <p>{{ search_result }}</p>
+    {% else %}
+        <p>No Pokémon found with that name.</p>
+    {% endif %}
+    <a href="/">Back to the list</a>
+</body>
+</html>
+

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+
+<head>
+    <title>Pokémon Page</title>
+</head>
+
+<body>
+    <h1>List of Pokémon</h1>
+    
+    <form method="GET" action="/search">
+        <select name="search_query">
+            {% for name in pokemon_names %}
+                <option value="{{ name }}">{{ name }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Search</button>
+    </form>
+    {{ secret_pokemon|safe }}
+    <div class="square-container">
+        <div class="square" style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Pokemon </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Types </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Total </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> HP </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Attack </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content">  Defense </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Special Attack</div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Special Defense </div>
+            <hr>
+        </div>
+        <div class="square " style="flex-basis: calc(11.1% - 4px);">
+            <div class="square-content"> Speed </div>
+            <hr>
+        </div>
+    </div>
+
+    <!-- Aqui va los pokemons k voy metiendo -->
+    <div class="search-history">
+        {% for result in search_results %}
+            {{ result|safe }}
+            <hr>
+        {% endfor %}
+    </div>
+
+
+</body>
+
+</html>
