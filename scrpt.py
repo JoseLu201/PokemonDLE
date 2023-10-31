@@ -3,6 +3,7 @@ import bs4
 from bs4 import BeautifulSoup
 import numpy as np
 from Pokemon import *
+import ast
 # URL of the webpage with the table
 def getPokedex():
     url = 'https://pokemondb.net/pokedex/all'
@@ -138,8 +139,24 @@ def getPokedex_extend():
         # arr_pokemon.append(pok)
     # return arr_pokemon
 
-getPokedex_extend()
+# getPokedex_extend()
 
+def createPokedex(file):
+    arr_pokemon = []
+    with open(file, 'r') as f:
+        for line in f:
+            try:
+                array = ast.literal_eval(line.strip())
+                if isinstance(array, list):
+                    if len(array[4]) == 1:
+                        array[4].append('None')
+                    arr_pokemon.append(Pokemon(*array))
+            except (ValueError, SyntaxError):
+                # Handle invalid lines that can't be interpreted as lists
+                pass
+    return arr_pokemon
+
+    
 def getRandomPokemon(pokedex):
     return pokedex[np.random.randint(0,len(pokedex))]
 

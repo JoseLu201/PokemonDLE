@@ -15,32 +15,27 @@ class Pokemon:
 
     # @classmethod
     # def from_array(cls, arr):
-    #     if len(arr) == 9:
-    #         id, name, types, total, hp, attack, defense, spAtk, spDef, speed = arr
-    #         return cls(id, name, types, int(total), int(hp), int(attack), int(defense), int(spAtk), int(spDef),int(speed))
+    #     if len(arr) == 11:
+    #         img, id, name,gen, types, total, hp, attack, defense, spAtk, spDef, speed = arr
+    #         print(types)
+    #         if len(types) == 1:
+    #             list(types).append('None')
+                
+    #         return cls(img, id, name,gen, types, int(total), int(hp), int(attack), int(defense), int(spAtk), int(spDef),int(speed))
     #     else:
-    #         raise ValueError("El array debe contener 9 elementos para crear un Pokémon.")
-
-    @classmethod
-    def from_array(cls, arr):
-        if len(arr) == 11:
-            img, id, name,gen, types, total, hp, attack, defense, spAtk, spDef, speed = arr
-            print(types)
-            return cls(img, id, name,gen, types, int(total), int(hp), int(attack), int(defense), int(spAtk), int(spDef),int(speed))
-        else:
-            raise ValueError("El array debe contener 9 elementos para crear un Pokémon.")
+    #         raise ValueError("El array debe contener 11 elementos para crear un Pokémon.")
         
     def compare(self, other):
         results = []
-        if self.types == other.types:
+        if self.types[0] == other.types[0]:
             results.append("=")
         else:
-            for t in self.types:
-                if(t in other.types):
-                    results.append("~")
-                    break
-            else:      
-                results.append("!=")
+            results.append("!=")
+        if self.types[1] == other.types[1]:
+            results.append("=")
+        else:
+            results.append("!=")
+        
 
         if self.total == other.total:
             results.append("=")
@@ -90,6 +85,14 @@ class Pokemon:
             results.append(">")
         else:
             results.append("<")
+        
+        if self.gen == other.gen:
+                results.append("=")
+        elif self.gen > other.gen:
+            results.append(">")
+        else:
+            results.append("<")
+        
         return results
     
     def __str__(self):
