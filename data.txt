@@ -1,0 +1,1501 @@
+https://img.pokemondb.net/sprites/sword-shield/icon/bulbasaur.png
+0001
+Bulbasaur
+https://pokemondb.net/pokedex/bulbasaur
+Generation 1
+['Grass', 'Poison']
+318
+45
+49
+49
+65
+65
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ivysaur.png
+0002
+Ivysaur
+https://pokemondb.net/pokedex/ivysaur
+Generation 1
+['Grass', 'Poison']
+405
+60
+62
+63
+80
+80
+60
+
+https://img.pokemondb.net/sprites/sword-shield/icon/venusaur.png
+0003
+Venusaur
+https://pokemondb.net/pokedex/venusaur
+Generation 1
+['Grass', 'Poison']
+525
+80
+82
+83
+100
+100
+80
+
+https://img.pokemondb.net/sprites/sword-shield/icon/venusaur-mega.png
+0003
+Venusaur
+Mega Venusaur
+https://pokemondb.net/pokedex/venusaur
+Generation 1
+['Grass', 'Poison']
+625
+80
+100
+123
+122
+120
+80
+
+https://img.pokemondb.net/sprites/sword-shield/icon/charmander.png
+0004
+Charmander
+https://pokemondb.net/pokedex/charmander
+Generation 1
+['Fire']
+309
+39
+52
+43
+60
+50
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/charmeleon.png
+0005
+Charmeleon
+https://pokemondb.net/pokedex/charmeleon
+Generation 1
+['Fire']
+405
+58
+64
+58
+80
+65
+80
+
+https://img.pokemondb.net/sprites/sword-shield/icon/charizard.png
+0006
+Charizard
+https://pokemondb.net/pokedex/charizard
+Generation 1
+['Fire', 'Flying']
+534
+78
+84
+78
+109
+85
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-x.png
+0006
+Charizard
+Mega Charizard X
+https://pokemondb.net/pokedex/charizard
+Generation 1
+['Fire', 'Dragon']
+634
+78
+130
+111
+130
+85
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-y.png
+0006
+Charizard
+Mega Charizard Y
+https://pokemondb.net/pokedex/charizard
+Generation 1
+['Fire', 'Flying']
+634
+78
+104
+78
+159
+115
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/squirtle.png
+0007
+Squirtle
+https://pokemondb.net/pokedex/squirtle
+Generation 1
+['Water']
+314
+44
+48
+65
+50
+64
+43
+
+https://img.pokemondb.net/sprites/sword-shield/icon/wartortle.png
+0008
+Wartortle
+https://pokemondb.net/pokedex/wartortle
+Generation 1
+['Water']
+405
+59
+63
+80
+65
+80
+58
+
+https://img.pokemondb.net/sprites/sword-shield/icon/blastoise.png
+0009
+Blastoise
+https://pokemondb.net/pokedex/blastoise
+Generation 1
+['Water']
+530
+79
+83
+100
+85
+105
+78
+
+https://img.pokemondb.net/sprites/sword-shield/icon/blastoise-mega.png
+0009
+Blastoise
+Mega Blastoise
+https://pokemondb.net/pokedex/blastoise
+Generation 1
+['Water']
+630
+79
+103
+120
+135
+115
+78
+
+https://img.pokemondb.net/sprites/sword-shield/icon/caterpie.png
+0010
+Caterpie
+https://pokemondb.net/pokedex/caterpie
+Generation 1
+['Bug']
+195
+45
+30
+35
+20
+20
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/metapod.png
+0011
+Metapod
+https://pokemondb.net/pokedex/metapod
+Generation 1
+['Bug']
+205
+50
+20
+55
+25
+25
+30
+
+https://img.pokemondb.net/sprites/sword-shield/icon/butterfree.png
+0012
+Butterfree
+https://pokemondb.net/pokedex/butterfree
+Generation 1
+['Bug', 'Flying']
+395
+60
+45
+50
+90
+80
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/weedle.png
+0013
+Weedle
+https://pokemondb.net/pokedex/weedle
+Generation 1
+['Bug', 'Poison']
+195
+40
+35
+30
+20
+20
+50
+
+https://img.pokemondb.net/sprites/sword-shield/icon/kakuna.png
+0014
+Kakuna
+https://pokemondb.net/pokedex/kakuna
+Generation 1
+['Bug', 'Poison']
+205
+45
+25
+50
+25
+25
+35
+
+https://img.pokemondb.net/sprites/sword-shield/icon/beedrill.png
+0015
+Beedrill
+https://pokemondb.net/pokedex/beedrill
+Generation 1
+['Bug', 'Poison']
+395
+65
+90
+40
+45
+80
+75
+
+https://img.pokemondb.net/sprites/sword-shield/icon/beedrill-mega.png
+0015
+Beedrill
+Mega Beedrill
+https://pokemondb.net/pokedex/beedrill
+Generation 1
+['Bug', 'Poison']
+495
+65
+150
+40
+15
+80
+145
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pidgey.png
+0016
+Pidgey
+https://pokemondb.net/pokedex/pidgey
+Generation 1
+['Normal', 'Flying']
+251
+40
+45
+40
+35
+35
+56
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pidgeotto.png
+0017
+Pidgeotto
+https://pokemondb.net/pokedex/pidgeotto
+Generation 1
+['Normal', 'Flying']
+349
+63
+60
+55
+50
+50
+71
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot.png
+0018
+Pidgeot
+https://pokemondb.net/pokedex/pidgeot
+Generation 1
+['Normal', 'Flying']
+479
+83
+80
+75
+70
+70
+101
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot-mega.png
+0018
+Pidgeot
+Mega Pidgeot
+https://pokemondb.net/pokedex/pidgeot
+Generation 1
+['Normal', 'Flying']
+579
+83
+80
+80
+135
+80
+121
+
+https://img.pokemondb.net/sprites/sword-shield/icon/rattata.png
+0019
+Rattata
+https://pokemondb.net/pokedex/rattata
+Generation 1
+['Normal']
+253
+30
+56
+35
+25
+35
+72
+
+https://img.pokemondb.net/sprites/sword-shield/icon/rattata-alolan.png
+0019
+Rattata
+Alolan Rattata
+https://pokemondb.net/pokedex/rattata
+Generation 1
+['Dark', 'Normal']
+253
+30
+56
+35
+25
+35
+72
+
+https://img.pokemondb.net/sprites/sword-shield/icon/raticate.png
+0020
+Raticate
+https://pokemondb.net/pokedex/raticate
+Generation 1
+['Normal']
+413
+55
+81
+60
+50
+70
+97
+
+https://img.pokemondb.net/sprites/sword-shield/icon/raticate-alolan.png
+0020
+Raticate
+Alolan Raticate
+https://pokemondb.net/pokedex/raticate
+Generation 1
+['Dark', 'Normal']
+413
+75
+71
+70
+40
+80
+77
+
+https://img.pokemondb.net/sprites/sword-shield/icon/spearow.png
+0021
+Spearow
+https://pokemondb.net/pokedex/spearow
+Generation 1
+['Normal', 'Flying']
+262
+40
+60
+30
+31
+31
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/fearow.png
+0022
+Fearow
+https://pokemondb.net/pokedex/fearow
+Generation 1
+['Normal', 'Flying']
+442
+65
+90
+65
+61
+61
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ekans.png
+0023
+Ekans
+https://pokemondb.net/pokedex/ekans
+Generation 1
+['Poison']
+288
+35
+60
+44
+40
+54
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/arbok.png
+0024
+Arbok
+https://pokemondb.net/pokedex/arbok
+Generation 1
+['Poison']
+448
+60
+95
+69
+65
+79
+80
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pikachu.png
+0025
+Pikachu
+https://pokemondb.net/pokedex/pikachu
+Generation 1
+['Electric']
+320
+35
+55
+40
+50
+50
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/pikachu-lets-go.png
+0025
+Pikachu
+Partner Pikachu
+https://pokemondb.net/pokedex/pikachu
+Generation 1
+['Electric']
+430
+45
+80
+50
+75
+60
+120
+
+https://img.pokemondb.net/sprites/sword-shield/icon/raichu.png
+0026
+Raichu
+https://pokemondb.net/pokedex/raichu
+Generation 1
+['Electric']
+485
+60
+90
+55
+90
+80
+110
+
+https://img.pokemondb.net/sprites/sword-shield/icon/raichu-alolan.png
+0026
+Raichu
+Alolan Raichu
+https://pokemondb.net/pokedex/raichu
+Generation 1
+['Electric', 'Psychic']
+485
+60
+85
+50
+95
+85
+110
+
+https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew.png
+0027
+Sandshrew
+https://pokemondb.net/pokedex/sandshrew
+Generation 1
+['Ground']
+300
+50
+75
+85
+20
+30
+40
+
+https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew-alolan.png
+0027
+Sandshrew
+Alolan Sandshrew
+https://pokemondb.net/pokedex/sandshrew
+Generation 1
+['Ice', 'Steel']
+300
+50
+75
+90
+10
+35
+40
+
+https://img.pokemondb.net/sprites/sword-shield/icon/sandslash.png
+0028
+Sandslash
+https://pokemondb.net/pokedex/sandslash
+Generation 1
+['Ground']
+450
+75
+100
+110
+45
+55
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/sandslash-alolan.png
+0028
+Sandslash
+Alolan Sandslash
+https://pokemondb.net/pokedex/sandslash
+Generation 1
+['Ice', 'Steel']
+450
+75
+100
+120
+25
+65
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-f.png
+0029
+Nidoran♀
+https://pokemondb.net/pokedex/nidoran-f
+Generation 1
+['Poison']
+275
+55
+47
+52
+40
+40
+41
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidorina.png
+0030
+Nidorina
+https://pokemondb.net/pokedex/nidorina
+Generation 1
+['Poison']
+365
+70
+62
+67
+55
+55
+56
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidoqueen.png
+0031
+Nidoqueen
+https://pokemondb.net/pokedex/nidoqueen
+Generation 1
+['Poison', 'Ground']
+505
+90
+92
+87
+75
+85
+76
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-m.png
+0032
+Nidoran♂
+https://pokemondb.net/pokedex/nidoran-m
+Generation 1
+['Poison']
+273
+46
+57
+40
+40
+40
+50
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidorino.png
+0033
+Nidorino
+https://pokemondb.net/pokedex/nidorino
+Generation 1
+['Poison']
+365
+61
+72
+57
+55
+55
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/nidoking.png
+0034
+Nidoking
+https://pokemondb.net/pokedex/nidoking
+Generation 1
+['Poison', 'Ground']
+505
+81
+102
+77
+85
+75
+85
+
+https://img.pokemondb.net/sprites/sword-shield/icon/clefairy.png
+0035
+Clefairy
+https://pokemondb.net/pokedex/clefairy
+Generation 1
+['Fairy']
+323
+70
+45
+48
+60
+65
+35
+
+https://img.pokemondb.net/sprites/sword-shield/icon/clefable.png
+0036
+Clefable
+https://pokemondb.net/pokedex/clefable
+Generation 1
+['Fairy']
+483
+95
+70
+73
+95
+90
+60
+
+https://img.pokemondb.net/sprites/sword-shield/icon/vulpix.png
+0037
+Vulpix
+https://pokemondb.net/pokedex/vulpix
+Generation 1
+['Fire']
+299
+38
+41
+40
+50
+65
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/vulpix-alolan.png
+0037
+Vulpix
+Alolan Vulpix
+https://pokemondb.net/pokedex/vulpix
+Generation 1
+['Ice']
+299
+38
+41
+40
+50
+65
+65
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ninetales.png
+0038
+Ninetales
+https://pokemondb.net/pokedex/ninetales
+Generation 1
+['Fire']
+505
+73
+76
+75
+81
+100
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ninetales-alolan.png
+0038
+Ninetales
+Alolan Ninetales
+https://pokemondb.net/pokedex/ninetales
+Generation 1
+['Ice', 'Fairy']
+505
+73
+67
+75
+81
+100
+109
+
+https://img.pokemondb.net/sprites/sword-shield/icon/jigglypuff.png
+0039
+Jigglypuff
+https://pokemondb.net/pokedex/jigglypuff
+Generation 1
+['Normal', 'Fairy']
+270
+115
+45
+20
+45
+25
+20
+
+https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png
+0040
+Wigglytuff
+https://pokemondb.net/pokedex/wigglytuff
+Generation 1
+['Normal', 'Fairy']
+435
+140
+70
+45
+85
+50
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/zubat.png
+0041
+Zubat
+https://pokemondb.net/pokedex/zubat
+Generation 1
+['Poison', 'Flying']
+245
+40
+45
+35
+30
+40
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/golbat.png
+0042
+Golbat
+https://pokemondb.net/pokedex/golbat
+Generation 1
+['Poison', 'Flying']
+455
+75
+80
+70
+65
+75
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/oddish.png
+0043
+Oddish
+https://pokemondb.net/pokedex/oddish
+Generation 1
+['Grass', 'Poison']
+320
+45
+50
+55
+75
+65
+30
+
+https://img.pokemondb.net/sprites/sword-shield/icon/gloom.png
+0044
+Gloom
+https://pokemondb.net/pokedex/gloom
+Generation 1
+['Grass', 'Poison']
+395
+60
+65
+70
+85
+75
+40
+
+https://img.pokemondb.net/sprites/sword-shield/icon/vileplume.png
+0045
+Vileplume
+https://pokemondb.net/pokedex/vileplume
+Generation 1
+['Grass', 'Poison']
+490
+75
+80
+85
+110
+90
+50
+
+https://img.pokemondb.net/sprites/sword-shield/icon/paras.png
+0046
+Paras
+https://pokemondb.net/pokedex/paras
+Generation 1
+['Bug', 'Grass']
+285
+35
+70
+55
+45
+55
+25
+
+https://img.pokemondb.net/sprites/sword-shield/icon/parasect.png
+0047
+Parasect
+https://pokemondb.net/pokedex/parasect
+Generation 1
+['Bug', 'Grass']
+405
+60
+95
+80
+60
+80
+30
+
+https://img.pokemondb.net/sprites/sword-shield/icon/venonat.png
+0048
+Venonat
+https://pokemondb.net/pokedex/venonat
+Generation 1
+['Bug', 'Poison']
+305
+60
+55
+50
+40
+55
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/venomoth.png
+0049
+Venomoth
+https://pokemondb.net/pokedex/venomoth
+Generation 1
+['Bug', 'Poison']
+450
+70
+65
+60
+90
+75
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/diglett.png
+0050
+Diglett
+https://pokemondb.net/pokedex/diglett
+Generation 1
+['Ground']
+265
+10
+55
+25
+35
+45
+95
+
+https://img.pokemondb.net/sprites/sword-shield/icon/diglett-alolan.png
+0050
+Diglett
+Alolan Diglett
+https://pokemondb.net/pokedex/diglett
+Generation 1
+['Ground', 'Steel']
+265
+10
+55
+30
+35
+45
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio.png
+0051
+Dugtrio
+https://pokemondb.net/pokedex/dugtrio
+Generation 1
+['Ground']
+425
+35
+100
+50
+50
+70
+120
+
+https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio-alolan.png
+0051
+Dugtrio
+Alolan Dugtrio
+https://pokemondb.net/pokedex/dugtrio
+Generation 1
+['Ground', 'Steel']
+425
+35
+100
+60
+50
+70
+110
+
+https://img.pokemondb.net/sprites/sword-shield/icon/meowth.png
+0052
+Meowth
+https://pokemondb.net/pokedex/meowth
+Generation 1
+['Normal']
+290
+40
+45
+35
+40
+40
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/meowth-alolan.png
+0052
+Meowth
+Alolan Meowth
+https://pokemondb.net/pokedex/meowth
+Generation 1
+['Dark']
+290
+40
+35
+35
+50
+40
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/meowth-galarian.png
+0052
+Meowth
+Galarian Meowth
+https://pokemondb.net/pokedex/meowth
+Generation 1
+['Steel']
+290
+50
+65
+55
+40
+40
+40
+
+https://img.pokemondb.net/sprites/sword-shield/icon/persian.png
+0053
+Persian
+https://pokemondb.net/pokedex/persian
+Generation 1
+['Normal']
+440
+65
+70
+60
+65
+65
+115
+
+https://img.pokemondb.net/sprites/sword-shield/icon/persian-alolan.png
+0053
+Persian
+Alolan Persian
+https://pokemondb.net/pokedex/persian
+Generation 1
+['Dark']
+440
+65
+60
+60
+75
+65
+115
+
+https://img.pokemondb.net/sprites/sword-shield/icon/psyduck.png
+0054
+Psyduck
+https://pokemondb.net/pokedex/psyduck
+Generation 1
+['Water']
+320
+50
+52
+48
+65
+50
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/golduck.png
+0055
+Golduck
+https://pokemondb.net/pokedex/golduck
+Generation 1
+['Water']
+500
+80
+82
+78
+95
+80
+85
+
+https://img.pokemondb.net/sprites/sword-shield/icon/mankey.png
+0056
+Mankey
+https://pokemondb.net/pokedex/mankey
+Generation 1
+['Fighting']
+305
+40
+80
+35
+35
+45
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/primeape.png
+0057
+Primeape
+https://pokemondb.net/pokedex/primeape
+Generation 1
+['Fighting']
+455
+65
+105
+60
+60
+70
+95
+
+https://img.pokemondb.net/sprites/sword-shield/icon/growlithe.png
+0058
+Growlithe
+https://pokemondb.net/pokedex/growlithe
+Generation 1
+['Fire']
+350
+55
+70
+45
+70
+50
+60
+
+https://img.pokemondb.net/sprites/scarlet-violet/icon/growlithe-hisuian.png
+0058
+Growlithe
+Hisuian Growlithe
+https://pokemondb.net/pokedex/growlithe
+Generation 1
+['Fire', 'Rock']
+350
+60
+75
+45
+65
+50
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/arcanine.png
+0059
+Arcanine
+https://pokemondb.net/pokedex/arcanine
+Generation 1
+['Fire']
+555
+90
+110
+80
+100
+80
+95
+
+https://img.pokemondb.net/sprites/scarlet-violet/icon/arcanine-hisuian.png
+0059
+Arcanine
+Hisuian Arcanine
+https://pokemondb.net/pokedex/arcanine
+Generation 1
+['Fire', 'Rock']
+555
+95
+115
+80
+95
+80
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/poliwag.png
+0060
+Poliwag
+https://pokemondb.net/pokedex/poliwag
+Generation 1
+['Water']
+300
+40
+50
+40
+40
+40
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/poliwhirl.png
+0061
+Poliwhirl
+https://pokemondb.net/pokedex/poliwhirl
+Generation 1
+['Water']
+385
+65
+65
+65
+50
+50
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/poliwrath.png
+0062
+Poliwrath
+https://pokemondb.net/pokedex/poliwrath
+Generation 1
+['Water', 'Fighting']
+510
+90
+95
+95
+70
+90
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/abra.png
+0063
+Abra
+https://pokemondb.net/pokedex/abra
+Generation 1
+['Psychic']
+310
+25
+20
+15
+105
+55
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/kadabra.png
+0064
+Kadabra
+https://pokemondb.net/pokedex/kadabra
+Generation 1
+['Psychic']
+400
+40
+35
+30
+120
+70
+105
+
+https://img.pokemondb.net/sprites/sword-shield/icon/alakazam.png
+0065
+Alakazam
+https://pokemondb.net/pokedex/alakazam
+Generation 1
+['Psychic']
+500
+55
+50
+45
+135
+95
+120
+
+https://img.pokemondb.net/sprites/sword-shield/icon/alakazam-mega.png
+0065
+Alakazam
+Mega Alakazam
+https://pokemondb.net/pokedex/alakazam
+Generation 1
+['Psychic']
+600
+55
+50
+65
+175
+105
+150
+
+https://img.pokemondb.net/sprites/sword-shield/icon/machop.png
+0066
+Machop
+https://pokemondb.net/pokedex/machop
+Generation 1
+['Fighting']
+305
+70
+80
+50
+35
+35
+35
+
+https://img.pokemondb.net/sprites/sword-shield/icon/machoke.png
+0067
+Machoke
+https://pokemondb.net/pokedex/machoke
+Generation 1
+['Fighting']
+405
+80
+100
+70
+50
+60
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/machamp.png
+0068
+Machamp
+https://pokemondb.net/pokedex/machamp
+Generation 1
+['Fighting']
+505
+90
+130
+80
+65
+85
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/bellsprout.png
+0069
+Bellsprout
+https://pokemondb.net/pokedex/bellsprout
+Generation 1
+['Grass', 'Poison']
+300
+50
+75
+35
+70
+30
+40
+
+https://img.pokemondb.net/sprites/sword-shield/icon/weepinbell.png
+0070
+Weepinbell
+https://pokemondb.net/pokedex/weepinbell
+Generation 1
+['Grass', 'Poison']
+390
+65
+90
+50
+85
+45
+55
+
+https://img.pokemondb.net/sprites/sword-shield/icon/victreebel.png
+0071
+Victreebel
+https://pokemondb.net/pokedex/victreebel
+Generation 1
+['Grass', 'Poison']
+490
+80
+105
+65
+100
+70
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/tentacool.png
+0072
+Tentacool
+https://pokemondb.net/pokedex/tentacool
+Generation 1
+['Water', 'Poison']
+335
+40
+40
+35
+50
+100
+70
+
+https://img.pokemondb.net/sprites/sword-shield/icon/tentacruel.png
+0073
+Tentacruel
+https://pokemondb.net/pokedex/tentacruel
+Generation 1
+['Water', 'Poison']
+515
+80
+70
+65
+80
+120
+100
+
+https://img.pokemondb.net/sprites/sword-shield/icon/geodude.png
+0074
+Geodude
+https://pokemondb.net/pokedex/geodude
+Generation 1
+['Rock', 'Ground']
+300
+40
+80
+100
+30
+30
+20
+
+https://img.pokemondb.net/sprites/sword-shield/icon/geodude-alolan.png
+0074
+Geodude
+Alolan Geodude
+https://pokemondb.net/pokedex/geodude
+Generation 1
+['Rock', 'Electric']
+300
+40
+80
+100
+30
+30
+20
+
+https://img.pokemondb.net/sprites/sword-shield/icon/graveler.png
+0075
+Graveler
+https://pokemondb.net/pokedex/graveler
+Generation 1
+['Rock', 'Ground']
+390
+55
+95
+115
+45
+45
+35
+
+https://img.pokemondb.net/sprites/sword-shield/icon/graveler-alolan.png
+0075
+Graveler
+Alolan Graveler
+https://pokemondb.net/pokedex/graveler
+Generation 1
+['Rock', 'Electric']
+390
+55
+95
+115
+45
+45
+35
+
+https://img.pokemondb.net/sprites/sword-shield/icon/golem.png
+0076
+Golem
+https://pokemondb.net/pokedex/golem
+Generation 1
+['Rock', 'Ground']
+495
+80
+120
+130
+55
+65
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/golem-alolan.png
+0076
+Golem
+Alolan Golem
+https://pokemondb.net/pokedex/golem
+Generation 1
+['Rock', 'Electric']
+495
+80
+120
+130
+55
+65
+45
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ponyta.png
+0077
+Ponyta
+https://pokemondb.net/pokedex/ponyta
+Generation 1
+['Fire']
+410
+50
+85
+55
+65
+65
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/ponyta-galarian.png
+0077
+Ponyta
+Galarian Ponyta
+https://pokemondb.net/pokedex/ponyta
+Generation 1
+['Psychic']
+410
+50
+85
+55
+65
+65
+90
+
+https://img.pokemondb.net/sprites/sword-shield/icon/rapidash.png
+0078
+Rapidash
+https://pokemondb.net/pokedex/rapidash
+Generation 1
+['Fire']
+500
+65
+100
+70
+80
+80
+105
+
+https://img.pokemondb.net/sprites/sword-shield/icon/rapidash-galarian.png
+0078
+Rapidash
+Galarian Rapidash
+https://pokemondb.net/pokedex/rapidash
+Generation 1
+['Psychic', 'Fairy']
+500
+65
+100
+70
+80
+80
+105
+
+https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke.png
+0079
+Slowpoke
+https://pokemondb.net/pokedex/slowpoke

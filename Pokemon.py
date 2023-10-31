@@ -1,7 +1,9 @@
 class Pokemon:
-    def __init__(self,id, name, types : list, total, hp, attack, defense, spAtk, spDef, speed):
+    def __init__(self,img, id, name,gen, types : list, total, hp, attack, defense, spAtk, spDef, speed):
+        self.img = img
         self.id = id
         self.name = name
+        self.gen = gen
         self.types = types
         self.total = total
         self.hp = hp
@@ -21,10 +23,10 @@ class Pokemon:
 
     @classmethod
     def from_array(cls, arr):
-        if len(arr) == 9:
-            id, name, types, total, hp, attack, defense, spAtk, spDef, speed = arr
+        if len(arr) == 11:
+            img, id, name,gen, types, total, hp, attack, defense, spAtk, spDef, speed = arr
             print(types)
-            return cls(id, name, types, int(total), int(hp), int(attack), int(defense), int(spAtk), int(spDef),int(speed))
+            return cls(img, id, name,gen, types, int(total), int(hp), int(attack), int(defense), int(spAtk), int(spDef),int(speed))
         else:
             raise ValueError("El array debe contener 9 elementos para crear un Pokémon.")
         
@@ -93,7 +95,8 @@ class Pokemon:
     def __str__(self):
         return f'''{self.name}
         ID              : {self.id}
-        Type(s)         : {(self.types)}
+        Type(s)         : {self.types}
+        Gen             : {self.gen}
         Total           : {self.total}
         HP              : {self.hp}
         Attack          : {self.attack}
