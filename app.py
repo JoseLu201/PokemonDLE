@@ -86,7 +86,7 @@ def search_pokemon():
     search_results.insert(0,div_structure)
 
 
-    return render_template('index.html', search_results=search_results, secret_pokemon=secret_pokemon, pokemon_names=pokemon_names)
+    return render_template('index.html', search_results=search_results, pokemon_names=pokemon_names, secret_pokemon=secret_pokemon)
 
 
 

@@ -1,23 +1,23 @@
 class Pokemon:
     def __init__(self,img, id, name,gen, types : list, total, hp, attack, defense, spAtk, spDef, speed):
-        self.img = img
-        self.id = id
-        self.name = name
-        self.gen = gen
-        self.types = types
-        self.total = total
-        self.hp = hp
-        self.attack = attack
-        self.defense = defense
-        self.spAtk = spAtk
-        self.spDef = spDef
-        self.speed = speed
+        self.img        = img
+        self.id         = id
+        self.name       = name
+        self.gen        = gen
+        self.types      = types
+        self.total      = int(total)
+        self.hp         = int(hp)
+        self.attack     = int(attack)
+        self.defense    = int(defense)
+        self.spAtk      = int(spAtk)
+        self.spDef      = int(spDef)
+        self.speed      = int(speed)
 
     # @classmethod
     # def from_array(cls, arr):
     #     if len(arr) == 11:
     #         img, id, name,gen, types, total, hp, attack, defense, spAtk, spDef, speed = arr
-    #         print(types)
+    #         #print(types)
     #         if len(types) == 1:
     #             list(types).append('None')
                 
@@ -40,58 +40,78 @@ class Pokemon:
         if self.total == other.total:
             results.append("=")
         elif self.total > other.total:
-            results.append(">")
+            #print("1Secreto mayor", self.total , other.total)
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
 
         if self.hp == other.hp:
             results.append("=")
         elif self.hp > other.hp:
-            results.append(">")
+            #print("2Secreto mayor", self.hp ,other.hp)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
 
         if self.attack == other.attack:
             results.append("=")
         elif self.attack > other.attack:
-            results.append(">")
+            #print("3Secreto mayor", self.attack ,other.attack)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
 
         if self.defense == other.defense:
             results.append("=")
         elif self.defense > other.defense:
-            results.append(">")
+            #print("4Secreto mayor", self.defense , other.defense)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
 
         if self.spAtk == other.spAtk:
             results.append("=")
         elif self.spAtk > other.spAtk:
-            results.append(">")
+            #print("5Secreto mayor",self.spAtk , other.spAtk)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
 
         if self.spDef == other.spDef:
             results.append("=")
         elif self.spDef > other.spDef:
-            results.append(">")
+            #print("6Secreto mayor",self.spDef , other.spDef)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
         
         if self.speed == other.speed:
             results.append("=")
         elif self.speed > other.speed:
-            results.append(">")
+            
+            #print("7Secreto mayor", self.speed , other.speed)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
         
-        if self.gen == other.gen:
+        if int(self.gen[-1]) == int(other.gen[-1]):
                 results.append("=")
         elif self.gen > other.gen:
-            results.append(">")
+            #print("8Secreto mayor",self.gen ,other.gen)
+            
+            results.append("↑")
         else:
-            results.append("<")
+            results.append("↓")
+        
+        #print(self)
+        #print(other)
+        #print(results)
         
         return results
     

@@ -1193,3 +1193,4 @@
 ['https://img.pokemondb.net/sprites/scarlet-violet/icon/miraidon.png', '1008', ['Miraidon'], 'Generation 9', ['Electric', 'Dragon'], '670', '100', '85', '100', '135', '115', '135']
 ['https://img.pokemondb.net/sprites/scarlet-violet/icon/walking-wake.png', '1009', ['Walking Wake'], 'Generation 9', ['Water', 'Dragon'], '590', '99', '83', '91', '125', '83', '109']
 ['https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-leaves.png', '1010', ['Iron Leaves'], 'Generation 9', ['Grass', 'Psychic'], '590', '90', '130', '88', '70', '108', '104']
+['', '1011', ['TU PAE CALVO'], 'Generation 9', ['Normal', 'Normal'], '500','500','500','500','500','500','500']
